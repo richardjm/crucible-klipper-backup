@@ -62,7 +62,7 @@ grab_version(){
 push_config(){
   cd $config_folder
   echo Pushing updates
-  git pull -v
+  git pull -v --ff-only
   git add . -v
   current_date=$(date +"%Y-%m-%d %T")
   git commit -m "Backup triggered on $current_date" -m "$m1" -m "$m2" -m "$m3" -m "$m4"
