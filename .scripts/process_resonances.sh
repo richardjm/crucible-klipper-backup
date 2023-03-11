@@ -6,10 +6,10 @@ config_folder=~/printer_data/config
 # TEST_RESONANCES AXIS=Y
 
 echo Processing x-axis
-/home/pi/klipper/scripts/calibrate_shaper.py /tmp/resonances_x_*.csv -o $config_folder/resonances/shaper_calibrate_x-${now}.png
+~/klipper/scripts/calibrate_shaper.py /tmp/resonances_x_*.csv -o $config_folder/resonances/shaper_calibrate_x-${now}.png
 
 echo processing y-axis
-/home/pi/klipper/scripts/calibrate_shaper.py /tmp/resonances_y_*.csv -o $config_folder/resonances/shaper_calibrate_y-${now}.png
+~/klipper/scripts/calibrate_shaper.py /tmp/resonances_y_*.csv -o $config_folder/resonances/shaper_calibrate_y-${now}.png
 
 # TEST_RESONANCES AXIS=1,1 OUTPUT=raw_data
 # TEST_RESONANCES AXIS=1,-1 OUTPUT=raw_data
