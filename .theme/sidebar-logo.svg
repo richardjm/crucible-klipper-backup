@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 52.107848 51.684423"
+   width="52.107849"
+   height="51.684422"
+   version="1.1"
+   id="svg1847"
+   sodipodi:docname="mav.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="favicon-32x32.png"
+   inkscape:export-xdpi="58.954651"
+   inkscape:export-ydpi="58.954651"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1849"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16.434456"
+     inkscape:cx="39.490203"
+     inkscape:cy="19.714677"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1845" />
+  <desc
+     id="desc1825">mav.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs1839">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1827" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1830" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1832" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1834" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g1845"
+     transform="translate(-188.86254,-525.22474)">
+    <path
+       d="m 218.46277,569.77879 12.85406,-31.96042 2.6593,0.51474 v 21.73368 l -2.38894,0.41346 -1.29494,-3.62898 -3.24689,8.06812 4.11181,11.48977 h 9.31322 v -50.6844 h -10.76354 l -13.32367,34.39942 h -2.93343 l -13.32367,-34.39942 h -10.76354 v 50.6844 h 9.31322 l 4.11181,-11.48977 -3.2469,-8.06812 -1.29493,3.62898 -2.38895,-0.41346 v -21.73368 l 2.6593,-0.51474 12.85407,31.96042 z"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1"
+       id="path1841" />
+    <path
+       d="m 210.64954,525.72476 -3.04733,8.54177 3.1997,8.26674 3.12907,-8.73592 1.96685,-0.0115 3.13318,8.7474 3.19971,-8.26674 -3.04734,-8.54177 z"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1"
+       id="path1843" />
+  </g>
+</svg>
